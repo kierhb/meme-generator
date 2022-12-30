@@ -12,7 +12,7 @@ In section 3, Bob guides you through building his classic meme generator, update
 - [Additional Note](#additional-note)
 
 ## Introduction
-- This is my solution to the second part of [Learn React](https://scrimba.com/learn/learnreact).
+- This is my solution to the third part of [Learn React](https://scrimba.com/learn/learnreact).
 - This webpage was setup using [Vite](https://vitejs.dev/).
 - This webpage features:
     - Interactive components
